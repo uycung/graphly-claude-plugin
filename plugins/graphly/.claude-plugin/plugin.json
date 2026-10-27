@@ -1,0 +1,8 @@
+{
+  "name": "graphly",
+  "version": "1.0.0",
+  "description": "Connects Claude Code to the Graphly MCP server: create and edit architecture, UML and planning diagrams and wireframe prototypes.",
+  "author": { "name": "Uy Cung" },
+  "homepage": "https://graphly.click/docs/mcp/",
+  "keywords": ["diagram", "wireframe", "uml", "architecture", "mcp"]
+}

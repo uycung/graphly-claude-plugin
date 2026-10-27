@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "graphly": {
+      "type": "http",
+      "url": "https://graphly.click/mcp"
+    }
+  }
+}

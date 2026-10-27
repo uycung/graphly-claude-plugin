@@ -1,0 +1,12 @@
+{
+  "name": "graphly",
+  "owner": { "name": "Uy Cung" },
+  "metadata": { "description": "Graphly: draw diagrams and clickable wireframes from Claude Code" },
+  "plugins": [
+    {
+      "name": "graphly",
+      "source": "./plugins/graphly",
+      "description": "Connects Claude Code to the Graphly MCP server (graphly.click): create and edit architecture, UML and planning diagrams and wireframe prototypes."
+    }
+  ]
+}
